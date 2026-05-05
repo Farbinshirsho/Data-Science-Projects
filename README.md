@@ -137,7 +137,3 @@ Master of Information Sciences — Massey University (Te Kunenga ki Pūrehuroa),
 [LinkedIn](https://www.linkedin.com/in/farbin/) | [GitHub](https://github.com/Farbinshirsho) | farbin.aziz07@gmail.com
 
 ---
-
-## 📌 Course
-
-158.755 Data Science — Semester 1, 2026 | Massey University
